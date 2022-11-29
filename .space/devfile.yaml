@@ -3,3 +3,4 @@ attributes:
   space:
     editor: Idea Release
     instanceType: large
+    projectRoot: build.gradle
