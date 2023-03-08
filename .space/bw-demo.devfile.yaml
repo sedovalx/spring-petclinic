@@ -14,5 +14,5 @@ attributes:
             - 'main' 
       script: |
         ./mvnw package
-        /mnt/space/ide/bin/remote-dev-server.sh installPlugins . org.rust.lang com.intellij.bigdatatools
+        /mnt/space/system/ide/bin/remote-dev-server.sh installPlugins . org.rust.lang com.intellij.bigdatatools
           
