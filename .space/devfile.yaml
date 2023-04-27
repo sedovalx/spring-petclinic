@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 attributes:
   space:
-    editor: Idea Release
+    editor: Idea
     instanceType: large
     projectRoot: build.gradle
